@@ -16,7 +16,9 @@ So far, I've worked the most with embedded programming, signal processing and de
 </p>
 
 ## 🙋‍♂️ Connect with me 
-[![Linkedin: Rafael Nicolas Trozzo](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-nicolas-trozzo/)](https://www.linkedin.com/in/rafael-nicolas-trozzo/)
+<p align="center">
+<a href="https://www.linkedin.com/in/rafael-nicolas-trozzo/"><img alt="LinkedIn" title="Twitter" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+</p>
 
 ## 💻 GitHub Profile Stats
 \
