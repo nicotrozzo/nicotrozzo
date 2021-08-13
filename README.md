@@ -1,10 +1,7 @@
 ## Hi, I'm Nico! 👋
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Electronics%20Engineering%20Student;
-  Constantly%20seeking%20challenges&center=true&width=380&height=45"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Electronics+Engineering+Student;Constantly+seeking+challenges)](https://git.io/typing-svg)
 
 I'm passionate about everything that is tech-related. \
 I like embedded programming, signal processing, machine learning and many other areas.
